@@ -10,4 +10,4 @@
 
 <h2>Jegyzőkönyvek:</h2>
 Az elkészült jegyzőkönyvek itt találhatóak:
-[Team_A.pdf](https://github.com/robotlabor-education/TeamA/files/7522121/Team_A.pdf)
+<li>[Team_A.pdf](https://github.com/robotlabor-education/TeamA/files/7522121/Team_A.pdf)</li>
