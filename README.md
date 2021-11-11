@@ -1,3 +1,6 @@
 # TeamA
 
-#EV3
+Tagok:
+Aczél Ákos
+Brachmann Huba
+Tóth László
