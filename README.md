@@ -1,6 +1,6 @@
 # TeamA
 
-<h1>Tagok:</h1>
+<h2>Tagok:</h2>
 <ul>
 <li>Aczél Ákos</li>
 <li>Brachmann Huba</li>
